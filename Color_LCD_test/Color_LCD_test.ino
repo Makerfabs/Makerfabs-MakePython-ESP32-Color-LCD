@@ -1,4 +1,4 @@
-i #include <Wire.h>
+#include <Wire.h>
 #include "SPI.h"
 #include <LovyanGFX.hpp>
 
