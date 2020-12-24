@@ -57,9 +57,9 @@ void setup()
     //tft.drawLine(30, 40, 200, 40, color[random(3)]);
     //tft.fillRect(0,0,20,200,color[random(3)]);
 
-    tft.setCursor(210, 0);
+    tft.setCursor(0, 0);
     tft.setTextColor(0x07e0);
-    tft.setTextSize(1);
+    tft.setTextSize(4);
     tft.println("Hello World!");
 }
 
