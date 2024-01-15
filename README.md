@@ -22,7 +22,7 @@ MakePython ESP32 color LED is preloaded with MicroPython, simple and suitable fo
 
 - You can get one from: [Makepython-Esp32-Color-Lcd](https://www.makerfabs.com/makepython-esp32-color-lcd.html)
 
-- Hardware and detailed instructions please visit Wiki page: [Makepython-Esp32-Color-Lcd Wiki](https://www.makerfabs.com/wiki/index.php?title=MakePython_ESP32_Color_LCD)
+- Hardware and detailed instructions please visit Wiki page: [Makepython-Esp32-Color-Lcd Wiki](https://wiki.makerfabs.com/MaESP_ESP32_Color_LCD.html)
 
 # Related Test
 
